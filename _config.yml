@@ -154,11 +154,11 @@ yat:
 #   - about.md
 
 # Page default value
- defaults:
-   home:
-     heading: "Data Science & Engineering"
-     subheading: "with Business"
-     banner: "https://dorae222.github.io/"
+defaults:
+  home:
+    heading: "Data Science & Engineering"
+    subheading: "with Business"
+    banner: "https://dorae222.github.io/"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
