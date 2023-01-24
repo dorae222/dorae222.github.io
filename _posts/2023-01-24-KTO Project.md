@@ -53,10 +53,11 @@ tags: [KTO, 한국관광공사, 데이터청년캠퍼스]
 
 ---
 
-#### PDF
+PDF
+ 
 [발표 PDF](https://drive.google.com/file/d/1nKiEWkvp07ODaVru5n5lMSzNjv4k_0Sq/view?usp=share_link)
 
-#### 서비스 링크
+ 서비스 링크
 
 [어드벤처_핫플딱대](http://bigleader-adventure.com/)
 

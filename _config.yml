@@ -152,12 +152,12 @@ header_pages:
   - categories.html
   - tags.html
   - about.html
-
-# Page default value
+ 
+# Page default valueBachelor of Business Administration
 defaults:
   home:
     heading: "Data Science & Engineering"
-    subheading: "with Business"
+    subheading: "경영학과 학생의 데이터 탐방기"
     banner: "https://dorae222.github.io/"
 
 # Banner default settings
