@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Data Science & Engineering
+email: dhj9842@gmail.com
+author: dorae222
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -154,27 +154,27 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "Data Science & Engineering"
+     subheading: "with Business"
+     banner: "https://dorae222.github.io/"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
-#   loop: true              # Video loop
-#   volume: 0               # Video volume (100% is 1.0)
-#   start_at: 0             # Video start time
-#   image: null             # Image banner source
-#   opacity: 1.0            # Banner opacity (100% is 1.0)
-#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-#   height: "640px"         # Banner default height
-#   min_height: null        # Banner minimum height
-#   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-#   subheading_style: null  # Custom subheading style (e.g. color: gold)
+banner:
+  video: null             # Video banner source
+  loop: true              # Video loop
+  volume: 0               # Video volume (100% is 1.0)
+  start_at: 0             # Video start time
+  image: null             # Image banner source
+  opacity: 1.0            # Banner opacity (100% is 1.0)
+  background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
+  height: "640px"         # Banner default height
+  min_height: null        # Banner minimum height
+  heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+  subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
 # excerpt_size: 350
