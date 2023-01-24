@@ -2,7 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: RNN MODEL
-categories: markdown_test
+categories: markdown
 tags: [test]
 ---
 
@@ -113,7 +113,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_1.svg)
+
     
 
 
@@ -122,7 +122,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_3.svg)
+
     
 
 
@@ -131,7 +131,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_5.svg)
+
     
 
 
@@ -140,7 +140,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_7.svg)
+
     
 
 
@@ -149,7 +149,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_9.svg)
+
     
 
 
@@ -158,7 +158,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_11.svg)
+
     
 
 
@@ -167,7 +167,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_13.svg)
+
     
 
 
@@ -176,7 +176,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_15.svg)
+
     
 
 
@@ -185,7 +185,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_17.svg)
+
     
 
 
@@ -194,7 +194,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_19.svg)
+
     
 
 
@@ -203,7 +203,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_21.svg)
+
     
 
 
@@ -212,7 +212,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_23.svg)
+
     
 
 
@@ -221,7 +221,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_25.svg)
+
     
 
 
@@ -230,7 +230,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_27.svg)
+
     
 
 
@@ -239,7 +239,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_29.svg)
+
     
 
 
@@ -248,7 +248,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_31.svg)
+
     
 
 
@@ -257,7 +257,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_33.svg)
+
     
 
 
@@ -266,7 +266,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_35.svg)
+
     
 
 
@@ -275,7 +275,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_37.svg)
+
     
 
 
@@ -284,7 +284,7 @@ test(model, x[:20], y[:20], to_be_shown=True)
 
 
     
-![svg](output_9_39.svg)
+
     
 
 
