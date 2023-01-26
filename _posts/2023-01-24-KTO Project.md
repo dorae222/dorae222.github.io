@@ -11,7 +11,7 @@ tags: [KTO, 한국관광공사, 데이터청년캠퍼스]
 ---
 
 기술스택 : Arima, ML, Propeht, TopicModleing<br>
-사용언어 : Phython<br>
+사용언어 : Python<br>
 주최: 과학기술정보통신부, 데이터 청년 캠퍼스, 빅리더AI아카데미, 한국관광공사<br>
 
 ![Korea_tourism_organization](https://user-images.githubusercontent.com/105966480/214323333-eb91b54d-2ac6-4ecd-afcc-82450d5ed9f3.jpg)
