@@ -68,8 +68,7 @@ tags: [StableDiffusion, MultiConcept]
 - Fine Tuning
     
     ![Untitled 6](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/8160ff60-1a43-4c70-b2b1-cb047e9d39d1)
-
-</details>    
+ 
 
 ### III. 문제정의
 
@@ -117,7 +116,7 @@ tags: [StableDiffusion, MultiConcept]
     
     ![Untitled 15](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/2aa7e49b-eeb9-4343-9ed1-e3c968275171)
 
-
+</details>
 
 ### 산출물
 ---
