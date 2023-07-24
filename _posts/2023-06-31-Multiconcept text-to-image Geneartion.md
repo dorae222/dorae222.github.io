@@ -49,12 +49,14 @@ tags: [StableDiffusion, MultiConcept]
         
         ![image](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/d8fbc748-3720-48a4-b1ca-0e1608a25ff8)
         
+        
 </details>
 
 <details>
 <summary>II. Related Work (e.g., existing studies)</summary>
 
-- Stable diffusion이란?
+
+- Stable diffusion이란?<br>
     
     ![Untitled 1](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/be94b23b-7805-4dee-877d-222effe0f396)
     
@@ -65,14 +67,17 @@ tags: [StableDiffusion, MultiConcept]
     ![Untitled 4](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/57a5cb94-477b-47b1-9c68-5a174d93b1d8)
     
     ![Untitled 5](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/c00ed0c9-9bae-436b-bf9b-20b51395b629)
+
     
 - Fine Tuning
     
     ![Untitled 6](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/8160ff60-1a43-4c70-b2b1-cb047e9d39d1)
+
 </details>    
 
 <details>
 <summary>III. 문제정의</summary>
+
 
 - 연구 목적과 동일
     
@@ -80,6 +85,7 @@ tags: [StableDiffusion, MultiConcept]
     ![Untitled 7](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/3b7d0b74-3a70-4310-b6ba-a9d06c58c528)
     
     ![Untitled 8](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/b1f4a5d0-d420-4308-8d61-d16f962e823a)
+
     
 - 원인 분석
     
@@ -89,41 +95,49 @@ tags: [StableDiffusion, MultiConcept]
     
     ![Untitled 11](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/66014bde-b595-480b-b246-2b45fa4ac3f6)
     
+
 </details> 
 
 <details>
 <summary>IV. 해결 방안</summary>
 
+
 - Training
     
     ![Untitled 12](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/ed765594-d21c-49c2-b472-a1354b7c64c9)
+
     
 - Inference
     
     ![Untitled 13](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/daf1380d-57db-42bd-b0b7-6f69d9d605d5)
+
     
 </details> 
 
 <details>
 <summary>V. 예상 결과 및 기대효과</summary>
 
+
 ![Untitled 14](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/542b139a-8b15-452f-91a6-4af99f0c7a81)
+
 
 </details>
 
 <details>
-<summary>VI. 연구과제 수행 계획</summary></details> 
+<summary>VI. 연구과제 수행 계획</summary>
 
 
 - 연구 계획 일정
     
     ![Untitled 15](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/2aa7e49b-eeb9-4343-9ed1-e3c968275171)
 
+
 </details>
+
 
 ### 산출물
 
 ---
 
-- [발표 PDF](https://drive.google.com/drive/folders/13J7aLt_1NRZUQAXyzAghcbSUUVyCH-J4?usp=sharing)<br>
+- [발표 PDF](https://drive.google.com/drive/folders/1wR3L36DZMxiNDpO0fa4nU9e46U0BigPS?usp=sharing)<br>
 - [참고 노션](https://www.notion.so/dorae222/Multi-concept-text-to-image-Generation-ef93cea3fec441909cd98e38c3475b63?pvs=4)
