@@ -2,7 +2,7 @@
 layout: post
 title: 한국관광공사(KTO) 프로젝트
 subtitle: 관광부상지역 모니터링 시스템
-categories: 공모전
+categories: 프로젝트
 tags: [KTO, 한국관광공사, 데이터청년캠퍼스, 빅리더AI아카데미]
 ---
 <br>

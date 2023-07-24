@@ -2,7 +2,7 @@
 layout: post
 title: Hyper Time
 subtitle: Hyper Time
-categories: 창업 경진대회
+categories: 창업대회
 tags: [창업]
 ---
 <br>

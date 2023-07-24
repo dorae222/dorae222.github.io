@@ -3,7 +3,7 @@ layout: post
 title: 이미지 생성 및 추천 시스템을 활용한 'INTOON'
 subtitle: 일기 변환 프로젝트
 categories: 프로젝트
-tags: [KTO, 한국관광공사, 데이터청년캠퍼스, 빅리더AI아카데미]
+tags: [StableDiffusion]
 ---
 <br>
 

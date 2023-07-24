@@ -10,8 +10,13 @@ tags: [Hackathon, BiG]
 ## Busan Tour with Storytelling
 
 ### 스토리텔링과 함께하는 부산여행
-![image](https://github.com/nammtaeehyeonn/buhack/assets/118907049/82ecfc13-a0cc-4d6e-8a77-7b1f84b5248f)
+<div style="text-align: center;">
+  <img src="https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/bcecea89-668c-4f59-98f2-0746205f8e50" alt="이미지" style="max-width: 500px;" />
+</div>
 
+
+주최: 부산광역시<br>
+주관: 부산테크노파크, 창업진흥원
 
 <br>
 
@@ -38,7 +43,9 @@ tags: [Hackathon, BiG]
 
 - <b>관광 정보 안내 부족 현상</b>
   - 2020/21년 기준 내/외국인 대상 부산 관광의 어려움에 대한 투표 결과
-  ![image](https://github.com/nammtaeehyeonn/buhack/assets/118907049/056daa0d-2d68-483a-a442-2bbef10b575b)
+<div style="text-align: center;">
+  <img src="https://github.com/nammtaeehyeonn/buhack/assets/118907049/056daa0d-2d68-483a-a442-2bbef10b575b" alt="이미지" style="max-width: 500px;" />
+</div>
  
 <br>
 
@@ -49,7 +56,9 @@ tags: [Hackathon, BiG]
 
 ### 서비스 개발환경
 ---
-![image](https://github.com/nammtaeehyeonn/buhack/assets/118907049/390ac71d-dfa6-41d6-8d7b-577c7ab97db3)
+<div style="text-align: center;">
+  <img src="https://github.com/nammtaeehyeonn/buhack/assets/118907049/390ac71d-dfa6-41d6-8d7b-577c7ab97db3" alt="이미지" style="max-width: 500px;" />
+</div>
 
 
 ### 주요 기능
@@ -59,26 +68,20 @@ tags: [Hackathon, BiG]
   - 마커에 커서를 올리면 이름과 사진을 확인
   - 마커를 클릭하면 이름과 요약된 정보, 원형 정보 확인 가능
 
-<br>
 
 - <b>Chat-GPT API 활용</b>
   - 사용자가 검색하는 내용에 대해 3줄로 요약한 정보가 출력됨
- 
-<br>
+
 
 - <b>Crawling</b>
   - 해당 마커를 클릭하면 주변의 주요 식당과 숙소 TOP3로 연결되는 창 활성화
 
-<br>
 
 - <b>NLP (+Crawling)</b>
   - 특정 지역구에 대한 최근 1달 간 가장 많이 검색된 토픽 시각화 
 
-<br>
-
 - <b>사용자 간 공유 가능한 방명록 기능 활성화</b>
   
-<br>
 
 ### 서비스 영상
 ---
@@ -89,5 +92,6 @@ tags: [Hackathon, BiG]
 <br>
 
 ## 기대효과
-
-![image](https://github.com/nammtaeehyeonn/buhack/assets/118907049/3089e338-7919-4759-833a-d02753efc7de)
+<div style="text-align: center;">
+  <img src="https://github.com/nammtaeehyeonn/buhack/assets/118907049/3089e338-7919-4759-833a-d02753efc7de" alt="이미지" style="max-width: 500px;" />
+</div>
