@@ -7,33 +7,52 @@ tags: [창업]
 ---
 <br>
 
-![하이퍼타임 (1차 제출)_1](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/c65eb512-f8fa-4317-be15-f6c5f08f30ea)
-![하이퍼타임 (1차 제출)_2](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/8277a88a-98cb-4683-ad66-920561f042ef)
-![하이퍼타임 (1차 제출)_3](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/cba0547a-49ff-4d01-9cb3-69734fbfcdd8)
-![하이퍼타임 (1차 제출)_4](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/9a7360d5-08a3-46f2-848f-417a18b7543a)
-![하이퍼타임 (1차 제출)_5](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/b3b88ed9-0103-479e-846a-cc3b64e270be)
-![하이퍼타임 (1차 제출)_6](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/58ad291d-de97-4d8a-a861-891eb928dca0)
-![하이퍼타임 (1차 제출)_7](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/180c550b-b8d2-4e6f-8c28-8b4ed8c001b3)
-![하이퍼타임 (1차 제출)_8](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/c4db8a79-35c3-4b7c-8187-4f4009253796)
-![하이퍼타임 (1차 제출)_9](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/7aca5424-44b0-4a47-affa-edec97a1593f)
-![하이퍼타임 (1차 제출)_10](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/555aaf87-8ef2-4767-b03c-8b70e99fc3b2)
-![하이퍼타임 (1차 제출)_11](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/63ec5c54-1b90-446d-b0d9-582a04907c35)
-![하이퍼타임 (1차 제출)_12](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/141c531d-244c-44d2-aa74-40c382adb0b5)
-![하이퍼타임 (1차 제출)_13](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/2cd07225-9516-4191-8eeb-beaf2f2d29a7)
-![하이퍼타임 (1차 제출)_14](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/10ad80f5-30eb-4954-8692-06bbddcf14e5)
-![하이퍼타임 (1차 제출)_15](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/7686675d-b273-45b5-bb0d-4b561cc32435)
-![하이퍼타임 (1차 제출)_16](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/70fa40ce-3f7a-4ac4-b52d-1e9d3f14c342)
-![하이퍼타임 (1차 제출)_17](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/9b90a419-cf46-499d-911b-b49526fd906a)
-![하이퍼타임 (1차 제출)_18](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/61288d18-75cd-470b-acc8-61cbed632ffa)
-![하이퍼타임 (1차 제출)_19](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/ee666d3b-3e0d-40d4-a190-e284997ed1ca)
-![하이퍼타임 (1차 제출)_20](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/103fa695-086b-4acf-9889-2559cef2d9bc)
-![하이퍼타임 (1차 제출)_21](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/75d849fc-680d-4904-b5c8-8b31cc2b5be4)
-![하이퍼타임 (1차 제출)_22](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/f3bca8c2-0538-4b14-bdf4-17fd9f6a8577)
-![하이퍼타임 (1차 제출)_23](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/47018fb3-fb3a-427d-a475-6c81adb218ae)
-![하이퍼타임 (1차 제출)_24](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/102d5e9a-0889-477e-b844-59065c4f9ddc)
-![하이퍼타임 (1차 제출)_25](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/c25f43ca-cd4b-4d3a-9061-0a9a4f77c732)
-![하이퍼타임 (1차 제출)_26](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/242520ef-e964-4b8a-9c31-e96390013467)
-![하이퍼타임 (1차 제출)_27](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/538fa21a-aa4d-4934-b7bd-89ec70211fa5)
-![하이퍼타임 (1차 제출)_28](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/5110b40e-6cfa-4165-a293-2d9dae5d5a9a)
-![하이퍼타임 (1차 제출)_29](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/e1b20107-646b-4fe8-aa4d-69efbfa6d3f7)
-![하이퍼타임 (1차 제출)_30](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/a5b59e65-ca66-4cef-9219-71fa99d1d651)
+![표지](https://github.com/dorae222/DataStructure_Algorithms/assets/105966480/c65eb512-f8fa-4317-be15-f6c5f08f30ea)
+
+### 참여배경
+---
+'벤처창업론'이라는 수업에서 창업을 준비하는 팀으로부터, 개발 및 실현 가능성 검증 포지션을 제안받았습니다.<br>
+이 수업을 수강하고 있지는 않았지만, 실제로 서비스를 기획하는데 있어<br>
+비개발직군과 어떻게 소통을 해야하는지 경험하기 위해 참여하였습니다.
+
+### 역할
+---
+- VPM & BMC 설계
+- 서비스 아키텍처 설계
+
+### 창업아이템
+---
+우리는 우유부단한 현대인을 위한 삶의 이정표이다.
+
+### 아이디어 개요
+---
+<details>
+<summary>펼쳐보기</summary>
+
+플래너란 무엇일까? 나의 약속, 할 일을 적는 달력이다. 우리가 보통 사용하는 디지털 플래너 역시 이와 다를 바 없다. 사용자가 약속, 할 일의 기한을 입력하면. 기존의 디지털 플래너는 사용자들에게 알림을 주고, 일정을 리마인드 시켜준다. 플래너란 무엇일까? 나의 약속, 할 일을 적는 달력이다. 우리가 보통 사용하는 디지털 플래너 역시 이와 다를 바 없다. 사용자가 약속, 할 일의 기한을 입력하면. 기존의 디지털 플래너는 사용자들에게 알림을 주고, 일정을 리마인드 시켜준다. 시중에 나와 있는 플래너들은 모두 이러한 구조로 이뤄져 있고, 차별점이라 한다면 디자인의 차이 그리고 입력의 편의성 정도에 불과하다. 즉 기존의 플래너들은 사용자들의 능동적인 가치창출에 이바지하지 못한다. 우리 팀은 수동적인 정보제공에 국한된 플래너에서 벗어나 능동적으로 사용자의 의사결정에 도움이 될 수 있는 도구 이정표로써 활용할 수 있는 방안을 제안하고자 한다.
+먼저, 우리는 계획을 수립하는 것 자체에 어려움이 있는 사람들을 위해 능동적으로 계획표를 제공한다. 자신의 정보와 To-do 리스트를 작성하면 위 정보를 토대로 개인에게 알맞은 여러 개 옵션의 플래너를 제안한다. 머릿속에서 정리되지 않던 일정에 대한 고민들을 입력하면, 시간표는 이를 가시화 시켜 고민을 해결해준다. 나아가 일정을 집중적으로 진행하길 원하는 사람, 시간 활용을 여유롭게 하고 싶은 사람들 등 다양한 패턴의 사람들에게 맞춤으로 개인의 니즈를 해소하고, 이를 통해 개인의 성향을 인식하고 분석해 개인마다 다양한 선택지를 제공한다.<br><br>
+두 번째는 정보를 학습하여 방향성을 수정한다. 기본적으로 학습된 개인의 성향과 함께 일정에 대한 가중치를 선제적으로 입력하면, 기존 가중치에 기반해 일정을 수정하여 초개 인화된 플랜을 제공한다. 예를 들어, 시험 합격에 대한 최종적인 목표를 설정하고 각각의 과목에 가중치를 배분한다면, 시험 합격을 위해 원하는 과목에 알맞은 시간을 할애할 수 있도록 플래너를 제공한다. 또한, 후에 사용자가 성취 정도를 입력한다면 개개인의 성취도를 반영한 시간 분배를 통해 더 향상된 성과를 위한 방향성을 보여준다.<br><br>
+세 번째로, 개인 데이터로 학습된 개인의 성향과, 일정에 대한 가중치를 선제적으로 입력하여 개인화된 플랜을 제공받는 것과 더불어, 외부정보 데이터를 활용하는 플랜을 생성한다. 사용자가 설정한 목표를 이미 달성한 이들의 정보를 활용하여 사용자 본인이 미처 생각하지 못한 플랜을 제시할 수 있다. 가령, 시험 합격을 목표로 설정했다면, 시험 합격자의 시간 배분을 분석하고 이를 사용자의 성향과 결합하고 장기적인 목표를 단기 목표로 전환하여 목적지까지 내비게이션의 역할을 수행한다.<br><br>
+마지막으로, 000는 지나간 일정을 재정립한다. 기존의 플래너는 달성하지 못한 일정에 대해 무관심했다면 000은 놓친 일정을 설정해둔 가중치에 기반하여 향후 일정 생성에 반영한다. 과거 설정한 일정을 시행하지 못했다면, 재시행할 수 있도록 현황을 반영해 다시금 새로운 플랜을 생성한다. 목표 시간이 설정돼있다면 더 많은 시간을 통해 목표를 이행할 수 있도록 하는 능동적이고 발전된 플래너로서의 기능을 한다. 더 나아가, 한정된 시간 속에서 과도한 목표를 설정한다면 가능한 목표에만 집중할 수 있도록 이성적인 판단의 근거를 제공한다. 사용자가 두 마리의 토끼를 다 놓치는 것이 아니라, 한 마리도 잡지 못하는 상황을 피할 수 있는 의사결정을 하는 중요한 근거로 활용된다.<br><br>
+사용자가 입력한 목표 달성을 위해, 초기 설정된 우선순위에 따라 개인 맞춤화된 자동 플랜이 제안되고, 사용자는 제안된 플랜을 선택한다. 사용자가 최종 선택한 플랜은 딥러닝 알고리즘을 통해 개인 데이터 학습을 위해 활용된다. 따라서 추후 계획에 대한 제안은 개인의 우선순위와 중요도, 외부 요소를 고려해 끊임없이 개인화된다. 이러한 내용은 기존에 존재하는 플래너에 비해 구체적이며, 사용자가 생각하지 못했던 부분에서 더 효율적인 목표를 달성할 수 있는 기회를 제공한다.<br><br>
+새해에 들어 많은 사람들이 플래너를 만든다. 그렇지만 이를 성공적으로 달성하는 사람은 드물다. 극단적으로 세워진 목표의 일부를 포기하지 못해 우리는 그 모두를 포기하기에 이른다. 포기를 하지 못한다면 모든 일의 퀄리티가 떨어지고 어떤 목표에도 도달하지 못하는 상황에 이르게 된다. 우리는 포기할 수 있는 용기를 사용자들에게 제공하고 싶다. 포기의 다른 의미는 선택과 집중이다. 객관적인 근거에 기반한 최적의 선택을 내려 집중할 수 있도록 우유부단한 현대인에게 최선의 서비스를 제시하고자 한다.
+
+</details>
+
+
+### 느낀점
+---
+대회 막바지 기간에 참여하여, 실제로 서비스를 제작하지 못하고 UI/UX 설계에서 마쳤습니다.
+이에 따라, 서비스를 개발하는 것 보다는 당시 상황에서 개발을 고려한 기획안을 설계하고자 하였습니다.<br>
+순수하게 경영학만을 전공하는 팀원들과 함께 하며,<br>
+실제 서비스를 함에 있어 '개발적인' 측면에서 고려해야하는 점을 설명하는데 많은 어려움을 겪었던 것 같습니다.<br>
+예를 들어, 서버 비용 및 인력을 고려하고,<br>
+개인 맞춤 알고리즘을 개발하기 위해서는 처음부터 데이터를 어떻게 수집해야하고<br>
+단계별로 서비스를 확장해나가야하는지를 회의를 통해 반영하였습니다.<br>
+최종적으로 위의 내용들을 반영하여 VPM과 BMC를 설계하였습니다.<br>
+최종적으로는 4등을 수상하였습니다.<br>
+
+### 발표자료
+
+---
+[발표자료 링크](https://drive.google.com/drive/u/0/folders/157CpbLaQxNN4YKR3r392Kcb2f4nXt61S)
