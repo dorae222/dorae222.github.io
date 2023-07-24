@@ -29,8 +29,7 @@ tags: [StableDiffusion, MultiConcept]
 <summary>프로젝트 세부 내용</summary>
 
 
-<details>
-<summary>I. Proposal</summary>
+### I. Proposal
 
 - 연구 내용
     - 이미지 생성시 컨셉을 유지/적용하는 방법(Textual Inversion, Hyper Network, Dreambooth, LoRA 등)을 동시에 여러 컨셉으로 적용하면, 원치 않게 혼합되는 경우들이 발생
@@ -45,15 +44,12 @@ tags: [StableDiffusion, MultiConcept]
     - 매번 생성할 때마다 대상이 너무 크게 변합니다. 예를들어서, 강아지를 생성한다고 하면 매 생성 때마다 다른 강아지가 생성될 것입니다. 따라서 사용자는 자신의 컨셉(얼굴, 애완동물, 장소, 옷 등)을 활용하여 이미지를 생성하고자 할 때가 있습니다. 소수의 샘플 이미지를 통해 새로운 컨셉을 빠르게 학습하고, 이를 반영하는 것은 이미지 생성서비스에 사용자가 큰 만족감을 느낄 수 있습니다.
     - 새로운 컨셉을 학습하고 적용하는 방법에는 Texutal Inversion, Hyper Network, Dreambooth, LoRA 등 다양한 방법들이 있습니다. 그런데, 적용하고자하는 새로운 컨셉이 2개 이상인 경우 mixing되어 나타나는 문제가 있습니다. 예를 들어 남녀 커플 2명을 학습하는 경우 두 얼굴의 개성이 섞여 나타나곤 합니다.
     - 이를 개선하기 위한 다양한 시도들이 제시되고 있으며, 이러한 것들을 기술적으로 비교하고 개선을 시도하는 것이 이번 프로젝트의 목표입니다.
-    - 예시
-        
-        ![image](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/d8fbc748-3720-48a4-b1ca-0e1608a25ff8)
-        
-        
-</details>
 
-<details>
-<summary>II. Related Work (e.g., existing studies)</summary>
+    - 예시
+        ![image](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/d8fbc748-3720-48a4-b1ca-0e1608a25ff8)
+
+        
+### II. Related Work (e.g., existing studies)
 
 
 - Stable diffusion이란?<br>
@@ -75,8 +71,7 @@ tags: [StableDiffusion, MultiConcept]
 
 </details>    
 
-<details>
-<summary>III. 문제정의</summary>
+### III. 문제정의
 
 
 - 연구 목적과 동일
@@ -96,10 +91,7 @@ tags: [StableDiffusion, MultiConcept]
     ![Untitled 11](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/66014bde-b595-480b-b246-2b45fa4ac3f6)
     
 
-</details> 
-
-<details>
-<summary>IV. 해결 방안</summary>
+### IV. 해결 방안
 
 
 - Training
@@ -112,27 +104,19 @@ tags: [StableDiffusion, MultiConcept]
     ![Untitled 13](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/daf1380d-57db-42bd-b0b7-6f69d9d605d5)
 
     
-</details> 
-
-<details>
-<summary>V. 예상 결과 및 기대효과</summary>
+### V. 예상 결과 및 기대효과
 
 
 ![Untitled 14](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/542b139a-8b15-452f-91a6-4af99f0c7a81)
 
 
-</details>
-
-<details>
-<summary>VI. 연구과제 수행 계획</summary>
+### VI. 연구과제 수행 계획
 
 
 - 연구 계획 일정
     
     ![Untitled 15](https://github.com/jeffreytse/jekyll-theme-yat/assets/105966480/2aa7e49b-eeb9-4343-9ed1-e3c968275171)
 
-
-</details>
 
 
 ### 산출물
